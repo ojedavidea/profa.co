@@ -70,4 +70,4 @@ P·A·K·E & K·A·P·E <a href="https://profa.co/public">#OmniscientCurrencies<
 <br>
 * profa.co <em>professionnalisation coordonnée des facultés</em>
 <br><br><br><br>
-<a href="https://kokoni.co/@2020">FRANCÉ</a>
+<a href="https://github.com/ojedavidea/profa.co/blob/master/ABOUT.md">GITit</a> | <a href="https://kokoni.co/@2020">FRANCÉ</a>
