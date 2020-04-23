@@ -6,6 +6,6 @@ For example, whether you are a craftswoman or craftsman, doctor, farmer, teacher
 <br><br>
 <a href="https://profa.co/public">#OmniscientCurrencies</a> on profa.co
 <br><br>
-<a href="https://kokoni.co/@2020">FRANCÉ</a>
+<a href="https://github.com/ojedavidea/profa.co/blob/master/INTRO.md">GITit</a> | <a href="https://kokoni.co/@2020">FRANCÉ</a>
 <br><br>
 Deutsch | Español | Français <a href="https://profa.co/about/more">...</a>~~leave empty space here~~
